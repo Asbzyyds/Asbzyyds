@@ -11,5 +11,4 @@
 
 ## 🤝 联系我
 
-[![QQ](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShenEternal)
 [![Blog](https://img.shields.io/badge/-个人博客-FF5722?style=flat&logo=blogger&logoColor=white)](asbzyyds.github.io)
